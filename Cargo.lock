@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "termcolor"
+name = "cyrup_termcolor"
 version = "2.0.0"
 dependencies = [
  "winapi-util",
