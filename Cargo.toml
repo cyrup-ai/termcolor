@@ -1,13 +1,13 @@
 [package]
-name = "termcolor"
+name = "cyrup_termcolor"
 version = "2.0.0"  #:version
-authors = ["Andrew Gallant <jamslam@gmail.com>"]
+authors = ["Andrew Gallant <jamslam@gmail.com>", "CYRUP.ai"]
 description = """
-A simple cross platform library for writing colored text to a terminal.
+A simple cross platform library for writing colored text to a terminal. (CYRUP.ai fork with compatibility fixes)
 """
-documentation = "https://docs.rs/termcolor"
-homepage = "https://github.com/BurntSushi/termcolor"
-repository = "https://github.com/BurntSushi/termcolor"
+documentation = "https://docs.rs/cyrup_termcolor"
+homepage = "https://github.com/cyrup-ai/termcolor"
+repository = "https://github.com/cyrup-ai/termcolor"
 readme = "README.md"
 keywords = ["windows", "win", "color", "ansi", "console"]
 license = "Unlicense OR MIT"
